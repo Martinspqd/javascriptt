@@ -1,0 +1,6 @@
+main{
+    width: 300px;
+    margin: auto ;
+    text-align: center;
+    background: linear-gradient(90deg, rgb(4, 0, 88) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100vh);
+}
